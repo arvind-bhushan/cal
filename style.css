@@ -52,6 +52,6 @@ button#equal{
  
 }
 .calculator button.btn-number{
-    background-color: pink;
+    background-color: rgb(174, 16, 42);
     border-radius: 10px;
 }
