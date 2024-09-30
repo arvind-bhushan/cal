@@ -42,7 +42,7 @@ button#equal{
 
 }
 .calculator button#clear{
-    background-color: red;
+    background-color: pink;
     border-radius: 10px;
 }
 .calculator button.btn-operator{
