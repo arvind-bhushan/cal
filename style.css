@@ -42,16 +42,16 @@ button#equal{
 
 }
 .calculator button#clear{
-    background-color: pink;
+    background-color: red;
     border-radius: 10px;
 }
 .calculator button.btn-operator{
-    background-color: black;
+    background-color: rgb(8, 8, 8);
     color: white;
     border-radius: 10px;
  
 }
 .calculator button.btn-number{
-    background-color: rgb(174, 16, 42);
+    background-color: pink;
     border-radius: 10px;
 }
